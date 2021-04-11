@@ -2,8 +2,9 @@
 
 ## Basic usage steps
 
-- Setup local environment
-- Run the dev server
+- Setup local environment by downloading .zip file and extracting. 
+- Run command "npm install" in terminal to install
+- Run the dev server with command "npm run start"
 - Troubleshoot issues, test in browser
 - Repeat as necessary until no issues remain
 - Success!
